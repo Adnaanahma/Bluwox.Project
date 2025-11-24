@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Model\bin\Debug\net8.0\Bluwox.Model.deps.json
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Model\bin\Debug\net8.0\Bluwox.Model.dll
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Model\bin\Debug\net8.0\Bluwox.Model.pdb
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Model\obj\Debug\net8.0\Bluwox.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Model\obj\Debug\net8.0\Bluwox.Model.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Model\obj\Debug\net8.0\Bluwox.Model.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Model\obj\Debug\net8.0\Bluwox.Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Model\obj\Debug\net8.0\Bluwox.Model.dll
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Model\obj\Debug\net8.0\refint\Bluwox.Model.dll
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Model\obj\Debug\net8.0\Bluwox.Model.pdb
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Model\obj\Debug\net8.0\ref\Bluwox.Model.dll
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Model\bin\Debug\net8.0\Bluwox.Core.dll
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Model\bin\Debug\net8.0\Bluwox.Core.pdb
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Model\obj\Debug\net8.0\Bluwox.Model.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Model\obj\Debug\net8.0\Bluwox.M.CCE0A447.Up2Date

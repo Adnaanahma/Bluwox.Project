@@ -1,0 +1,11 @@
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Core\bin\Debug\net8.0\Bluwox.Core.deps.json
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Core\bin\Debug\net8.0\Bluwox.Core.dll
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Core\bin\Debug\net8.0\Bluwox.Core.pdb
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Core\obj\Debug\net8.0\Bluwox.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Core\obj\Debug\net8.0\Bluwox.Core.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Core\obj\Debug\net8.0\Bluwox.Core.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Core\obj\Debug\net8.0\Bluwox.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Core\obj\Debug\net8.0\Bluwox.Core.dll
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Core\obj\Debug\net8.0\refint\Bluwox.Core.dll
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Core\obj\Debug\net8.0\Bluwox.Core.pdb
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Core\obj\Debug\net8.0\ref\Bluwox.Core.dll

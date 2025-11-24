@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluwox.API", "Bluwox.API\Bluwox.API.csproj", "{6C02F309-7A2F-468E-80DA-00F30D024454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluwox.Model", "Bluwox.Model\Bluwox.Model.csproj", "{872B1008-E9F4-43F4-9396-46C1B9BFE595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluwox.Core", "Bluwox.Core\Bluwox.Core.csproj", "{C21DE4FA-6E77-4294-9739-F67D73A617C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluwox.Service", "Bluwox.Service\Bluwox.Service.csproj", "{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluwox.Migrations", "Bluwox.Migration\Bluwox.Migrations.csproj", "{7E4503DE-3A1F-478D-BE73-96831840BCCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluwox.Repository", "Bluwox.Repository\Bluwox.Repository.csproj", "{B20E6F01-F9A5-4B7E-8F9B-02E312DD577F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C02F309-7A2F-468E-80DA-00F30D024454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C02F309-7A2F-468E-80DA-00F30D024454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C02F309-7A2F-468E-80DA-00F30D024454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C02F309-7A2F-468E-80DA-00F30D024454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872B1008-E9F4-43F4-9396-46C1B9BFE595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872B1008-E9F4-43F4-9396-46C1B9BFE595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872B1008-E9F4-43F4-9396-46C1B9BFE595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872B1008-E9F4-43F4-9396-46C1B9BFE595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21DE4FA-6E77-4294-9739-F67D73A617C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21DE4FA-6E77-4294-9739-F67D73A617C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21DE4FA-6E77-4294-9739-F67D73A617C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21DE4FA-6E77-4294-9739-F67D73A617C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4503DE-3A1F-478D-BE73-96831840BCCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4503DE-3A1F-478D-BE73-96831840BCCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4503DE-3A1F-478D-BE73-96831840BCCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4503DE-3A1F-478D-BE73-96831840BCCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B20E6F01-F9A5-4B7E-8F9B-02E312DD577F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20E6F01-F9A5-4B7E-8F9B-02E312DD577F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20E6F01-F9A5-4B7E-8F9B-02E312DD577F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20E6F01-F9A5-4B7E-8F9B-02E312DD577F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0996B78F-38BB-44BE-BBA7-9253BEB11BA3}
+	EndGlobalSection
+EndGlobal

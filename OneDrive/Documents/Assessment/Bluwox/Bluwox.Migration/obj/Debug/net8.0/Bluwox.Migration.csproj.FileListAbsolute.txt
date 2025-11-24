@@ -1,0 +1,17 @@
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\bin\Debug\net8.0\Bluwox.Migration.deps.json
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\bin\Debug\net8.0\Bluwox.Migration.runtimeconfig.json
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\bin\Debug\net8.0\Bluwox.Migration.dll
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\bin\Debug\net8.0\Bluwox.Migration.pdb
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\bin\Debug\net8.0\Bluwox.Model.dll
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\bin\Debug\net8.0\Bluwox.Model.pdb
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\obj\Debug\net8.0\Bluwox.Migration.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\obj\Debug\net8.0\Bluwox.Migration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\obj\Debug\net8.0\Bluwox.Migration.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\obj\Debug\net8.0\Bluwox.Migration.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\obj\Debug\net8.0\Bluwox.Migration.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\obj\Debug\net8.0\Bluwox.M.1CB3286A.Up2Date
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\obj\Debug\net8.0\Bluwox.Migration.dll
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\obj\Debug\net8.0\refint\Bluwox.Migration.dll
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\obj\Debug\net8.0\Bluwox.Migration.pdb
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\obj\Debug\net8.0\Bluwox.Migration.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Migration\obj\Debug\net8.0\ref\Bluwox.Migration.dll

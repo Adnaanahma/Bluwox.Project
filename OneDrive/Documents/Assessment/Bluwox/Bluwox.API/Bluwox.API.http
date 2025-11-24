@@ -1,0 +1,6 @@
+@Bluwox.API_HostAddress = http://localhost:5034
+
+GET {{Bluwox.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
