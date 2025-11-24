@@ -95,6 +95,11 @@ namespace Bluwox.Service.Implementations.ServiceManagementLogic
             return PageBaseResponse<ServiceManagementDto>.Success(mappedData, "Record retrieved successfully", repoResponse.CurrentPage, repoResponse.HasNextPage, repoResponse.TotalRecordInStore);
         }
 
+        /// <summary>
+        /// "filter for searihng a service"
+        /// </summary>
+        /// <param name="request"></param>
+        /// <returns></returns>
         public async Task<PageBaseResponse<ServiceManagementDto>> GetByFilter(ServiceFilterRequest request)
         {
             var repoResponse = await _serviceManagementRepo.Filter(request.ServiceName, request.Category, request.StartDate, request.EndDate, request.PageNumber, request.PageSize);

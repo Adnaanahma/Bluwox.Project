@@ -17,3 +17,4 @@ C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Repository\obj\Debug\net
 C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Repository\obj\Debug\net8.0\Bluwox.R.0BC58906.Up2Date
 C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Repository\bin\Debug\net8.0\Bluwox.Core.dll
 C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Repository\bin\Debug\net8.0\Bluwox.Core.pdb
+C:\Users\hp\OneDrive\Documents\Assessment\Bluwox\Bluwox.Repository\obj\Debug\net8.0\Bluwox.Repository.sourcelink.json

@@ -149,9 +149,27 @@ namespace Bluwox.Repository.ServiceManagementRepo
                 if (pageNumber <= 0) pageNumber = 1;
                 if (pageSize <= 0) pageSize = 10;
 
-                var query = _dbContext.ServiceManagements
-                    .Include(x => x.Category)
-                        .ThenInclude(c => c.SubCategories).ToImmutableSortedSet().Where(x => (x.Name == serviceName || x.CategoryId == category) || (x.CreatedDate > startDate && x.CreatedDate < endDate));
+                var query = _dbContext.ServiceManagements.Include(x => x.Category).ThenInclude(c => c.SubCategories).AsQueryable();
+
+                if (!string.IsNullOrEmpty(serviceName))
+                {
+                    query = query.Where(x => x.Name == serviceName);
+                }
+
+                if (category > 0)
+                {
+                    query = query.Where(x => x.CategoryId == category);
+                }
+
+                if (startDate != null)
+                {
+                    query = query.Where(x => x.CreatedDate >= startDate);
+                }
+
+                if (endDate != null)
+                {
+                    query = query.Where(x => x.CreatedDate <= endDate);
+                }
 
                 var totalCount = query.Count();
 

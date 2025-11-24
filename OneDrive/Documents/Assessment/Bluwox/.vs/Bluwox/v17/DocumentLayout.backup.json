@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}|Bluwox.Service\\Bluwox.Service.csproj|c:\\users\\hp\\onedrive\\documents\\assessment\\bluwox\\bluwox.service\\implementations\\servicemanagementlogic\\servicemanagementlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}|Bluwox.Service\\Bluwox.Service.csproj|solutionrelative:bluwox.service\\implementations\\servicemanagementlogic\\servicemanagementlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20E6F01-F9A5-4B7E-8F9B-02E312DD577F}|Bluwox.Repository\\Bluwox.Repository.csproj|c:\\users\\hp\\onedrive\\documents\\assessment\\bluwox\\bluwox.repository\\servicemanagementrepo\\servicemanagementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20E6F01-F9A5-4B7E-8F9B-02E312DD577F}|Bluwox.Repository\\Bluwox.Repository.csproj|solutionrelative:bluwox.repository\\servicemanagementrepo\\servicemanagementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C02F309-7A2F-468E-80DA-00F30D024454}|Bluwox.API\\Bluwox.API.csproj|c:\\users\\hp\\onedrive\\documents\\assessment\\bluwox\\bluwox.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C02F309-7A2F-468E-80DA-00F30D024454}|Bluwox.API\\Bluwox.API.csproj|solutionrelative:bluwox.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}|Bluwox.Service\\Bluwox.Service.csproj|c:\\users\\hp\\onedrive\\documents\\assessment\\bluwox\\bluwox.service\\implementations\\categorylogic\\categorylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}|Bluwox.Service\\Bluwox.Service.csproj|solutionrelative:bluwox.service\\implementations\\categorylogic\\categorylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C02F309-7A2F-468E-80DA-00F30D024454}|Bluwox.API\\Bluwox.API.csproj|c:\\users\\hp\\onedrive\\documents\\assessment\\bluwox\\bluwox.api\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C02F309-7A2F-468E-80DA-00F30D024454}|Bluwox.API\\Bluwox.API.csproj|solutionrelative:bluwox.api\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{6C02F309-7A2F-468E-80DA-00F30D024454}|Bluwox.API\\Bluwox.API.csproj|solutionrelative:bluwox.api\\controllers\\servicemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}|Bluwox.Service\\Bluwox.Service.csproj|c:\\users\\hp\\onedrive\\documents\\assessment\\bluwox\\bluwox.service\\implementations\\servicemanagementlogic\\servicemanagementlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}|Bluwox.Service\\Bluwox.Service.csproj|solutionrelative:bluwox.service\\implementations\\servicemanagementlogic\\servicemanagementlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}|Bluwox.Service\\Bluwox.Service.csproj|c:\\users\\hp\\onedrive\\documents\\assessment\\bluwox\\bluwox.service\\implementations\\servicemanagementlogic\\iservicemanagementlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}|Bluwox.Service\\Bluwox.Service.csproj|solutionrelative:bluwox.service\\implementations\\servicemanagementlogic\\iservicemanagementlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B20E6F01-F9A5-4B7E-8F9B-02E312DD577F}|Bluwox.Repository\\Bluwox.Repository.csproj|c:\\users\\hp\\onedrive\\documents\\assessment\\bluwox\\bluwox.repository\\servicemanagementrepo\\iservicemanagementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B20E6F01-F9A5-4B7E-8F9B-02E312DD577F}|Bluwox.Repository\\Bluwox.Repository.csproj|solutionrelative:bluwox.repository\\servicemanagementrepo\\iservicemanagementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B20E6F01-F9A5-4B7E-8F9B-02E312DD577F}|Bluwox.Repository\\Bluwox.Repository.csproj|c:\\users\\hp\\onedrive\\documents\\assessment\\bluwox\\bluwox.repository\\servicemanagementrepo\\servicemanagementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B20E6F01-F9A5-4B7E-8F9B-02E312DD577F}|Bluwox.Repository\\Bluwox.Repository.csproj|solutionrelative:bluwox.repository\\servicemanagementrepo\\servicemanagementrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B20E6F01-F9A5-4B7E-8F9B-02E312DD577F}|Bluwox.Repository\\Bluwox.Repository.csproj|c:\\users\\hp\\onedrive\\documents\\assessment\\bluwox\\bluwox.repository\\cache\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{B20E6F01-F9A5-4B7E-8F9B-02E312DD577F}|Bluwox.Repository\\Bluwox.Repository.csproj|solutionrelative:bluwox.repository\\categoryrepo\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C02F309-7A2F-468E-80DA-00F30D024454}|Bluwox.API\\Bluwox.API.csproj|c:\\users\\hp\\onedrive\\documents\\assessment\\bluwox\\bluwox.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6C02F309-7A2F-468E-80DA-00F30D024454}|Bluwox.API\\Bluwox.API.csproj|solutionrelative:bluwox.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C02F309-7A2F-468E-80DA-00F30D024454}|Bluwox.API\\Bluwox.API.csproj|c:\\users\\hp\\onedrive\\documents\\assessment\\bluwox\\bluwox.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C02F309-7A2F-468E-80DA-00F30D024454}|Bluwox.API\\Bluwox.API.csproj|solutionrelative:bluwox.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{872B1008-E9F4-43F4-9396-46C1B9BFE595}|Bluwox.Model\\Bluwox.Model.csproj|c:\\users\\hp\\onedrive\\documents\\assessment\\bluwox\\bluwox.model\\viewmodels\\servicefilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{872B1008-E9F4-43F4-9396-46C1B9BFE595}|Bluwox.Model\\Bluwox.Model.csproj|solutionrelative:bluwox.model\\viewmodels\\servicefilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}|Bluwox.Service\\Bluwox.Service.csproj|c:\\users\\hp\\onedrive\\documents\\assessment\\bluwox\\bluwox.service\\implementations\\categorylogic\\categorylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}|Bluwox.Service\\Bluwox.Service.csproj|solutionrelative:bluwox.service\\implementations\\categorylogic\\categorylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{750CC24D-7F8C-4B63-A5CF-B8F824F3A491}|Bluwox.Service\\Bluwox.Service.csproj|c:\\users\\hp\\onedrive\\documents\\assessment\\bluwox\\bluwox.service\\helpers\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,46 +126,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceManagementController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.API\\Controllers\\ServiceManagementController.cs",
-              "RelativeDocumentMoniker": "Bluwox.API\\Controllers\\ServiceManagementController.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.API\\Controllers\\ServiceManagementController.cs",
-              "RelativeToolTip": "Bluwox.API\\Controllers\\ServiceManagementController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAkwFEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T22:59:53.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IServiceManagementRepo.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Repository\\ServiceManagementRepo\\IServiceManagementRepo.cs",
-              "RelativeDocumentMoniker": "Bluwox.Repository\\ServiceManagementRepo\\IServiceManagementRepo.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Repository\\ServiceManagementRepo\\IServiceManagementRepo.cs",
-              "RelativeToolTip": "Bluwox.Repository\\ServiceManagementRepo\\IServiceManagementRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAACbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T13:52:54.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ServiceManagementLogic.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Service\\Implementations\\ServiceManagementLogic\\ServiceManagementLogic.cs",
               "RelativeDocumentMoniker": "Bluwox.Service\\Implementations\\ServiceManagementLogic\\ServiceManagementLogic.cs",
               "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Service\\Implementations\\ServiceManagementLogic\\ServiceManagementLogic.cs",
               "RelativeToolTip": "Bluwox.Service\\Implementations\\ServiceManagementLogic\\ServiceManagementLogic.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAmwGUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wGMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-22T22:31:57.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IServiceManagementLogic.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Service\\Implementations\\ServiceManagementLogic\\IServiceManagementLogic.cs",
               "RelativeDocumentMoniker": "Bluwox.Service\\Implementations\\ServiceManagementLogic\\IServiceManagementLogic.cs",
@@ -173,38 +147,84 @@
               "RelativeToolTip": "Bluwox.Service\\Implementations\\ServiceManagementLogic\\IServiceManagementLogic.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T22:32:51.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T22:32:51.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ApiKeyMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.API\\Middleware\\ApiKeyMiddleware.cs",
               "RelativeDocumentMoniker": "Bluwox.API\\Middleware\\ApiKeyMiddleware.cs",
               "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.API\\Middleware\\ApiKeyMiddleware.cs",
               "RelativeToolTip": "Bluwox.API\\Middleware\\ApiKeyMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T21:54:25.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T21:54:25.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "CategoryLogic.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Service\\Implementations\\CategoryLogic\\CategoryLogic.cs",
+              "RelativeDocumentMoniker": "Bluwox.Service\\Implementations\\CategoryLogic\\CategoryLogic.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Service\\Implementations\\CategoryLogic\\CategoryLogic.cs",
+              "RelativeToolTip": "Bluwox.Service\\Implementations\\CategoryLogic\\CategoryLogic.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:35:00.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Bluwox.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.API\\appsettings.json",
+              "RelativeToolTip": "Bluwox.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-22T23:10:19.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ServiceManagementRepo.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Repository\\ServiceManagementRepo\\ServiceManagementRepo.cs",
               "RelativeDocumentMoniker": "Bluwox.Repository\\ServiceManagementRepo\\ServiceManagementRepo.cs",
               "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Repository\\ServiceManagementRepo\\ServiceManagementRepo.cs",
               "RelativeToolTip": "Bluwox.Repository\\ServiceManagementRepo\\ServiceManagementRepo.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAqwJAAAACnAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAkwKoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-22T23:39:07.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "IServiceManagementRepo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Repository\\ServiceManagementRepo\\IServiceManagementRepo.cs",
+              "RelativeDocumentMoniker": "Bluwox.Repository\\ServiceManagementRepo\\IServiceManagementRepo.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Repository\\ServiceManagementRepo\\IServiceManagementRepo.cs",
+              "RelativeToolTip": "Bluwox.Repository\\ServiceManagementRepo\\IServiceManagementRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T13:52:54.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.API\\Controllers\\ServiceManagementController.cs",
+              "RelativeDocumentMoniker": "Bluwox.API\\Controllers\\ServiceManagementController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.API\\Controllers\\ServiceManagementController.cs",
+              "RelativeToolTip": "Bluwox.API\\Controllers\\ServiceManagementController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T22:59:53.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ICacheService.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Repository\\Cache\\ICacheService.cs",
               "RelativeDocumentMoniker": "Bluwox.Repository\\Cache\\ICacheService.cs",
@@ -212,12 +232,11 @@
               "RelativeToolTip": "Bluwox.Repository\\Cache\\ICacheService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T20:12:43.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T20:12:43.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CacheService.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Repository\\Cache\\CacheService.cs",
               "RelativeDocumentMoniker": "Bluwox.Repository\\Cache\\CacheService.cs",
@@ -225,12 +244,11 @@
               "RelativeToolTip": "Bluwox.Repository\\Cache\\CacheService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T20:12:00.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T20:12:00.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CategoryRepo.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Repository\\CategoryRepo\\CategoryRepo.cs",
               "RelativeDocumentMoniker": "Bluwox.Repository\\CategoryRepo\\CategoryRepo.cs",
@@ -243,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.API\\Program.cs",
               "RelativeDocumentMoniker": "Bluwox.API\\Program.cs",
@@ -251,12 +269,11 @@
               "RelativeToolTip": "Bluwox.API\\Program.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T23:13:22.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T23:13:22.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ServiceFilterRequest.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Model\\ViewModels\\ServiceFilterRequest.cs",
               "RelativeDocumentMoniker": "Bluwox.Model\\ViewModels\\ServiceFilterRequest.cs",
@@ -264,34 +281,19 @@
               "RelativeToolTip": "Bluwox.Model\\ViewModels\\ServiceFilterRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T21:51:00.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T21:51:00.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Bluwox.API",
+              "DocumentIndex": 12,
+              "Title": "Bluwox.API.csproj",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.API\\Bluwox.API.csproj",
               "RelativeDocumentMoniker": "Bluwox.API\\Bluwox.API.csproj",
               "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.API\\Bluwox.API.csproj",
               "RelativeToolTip": "Bluwox.API\\Bluwox.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-23T21:53:48.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Bluwox.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.API\\appsettings.json",
-              "RelativeToolTip": "Bluwox.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-22T23:10:19.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T21:53:48.39Z"
             },
             {
               "$type": "Document",
@@ -303,8 +305,7 @@
               "RelativeToolTip": "Bluwox.Service\\Helpers\\DIExtension.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T22:26:57.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T22:26:57.271Z"
             },
             {
               "$type": "Document",
@@ -316,34 +317,19 @@
               "RelativeToolTip": "Bluwox.Service\\Helpers\\MapperProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T23:28:15.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoryLogic.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Service\\Implementations\\CategoryLogic\\CategoryLogic.cs",
-              "RelativeDocumentMoniker": "Bluwox.Service\\Implementations\\CategoryLogic\\CategoryLogic.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Service\\Implementations\\CategoryLogic\\CategoryLogic.cs",
-              "RelativeToolTip": "Bluwox.Service\\Implementations\\CategoryLogic\\CategoryLogic.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwC4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T14:35:00.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T23:28:15.692Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Bluwox.Repository",
+              "Title": "Bluwox.Repository.csproj",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Repository\\Bluwox.Repository.csproj",
               "RelativeDocumentMoniker": "Bluwox.Repository\\Bluwox.Repository.csproj",
               "ToolTip": "C:\\Users\\hp\\OneDrive\\Documents\\Assessment\\Bluwox\\Bluwox.Repository\\Bluwox.Repository.csproj",
               "RelativeToolTip": "Bluwox.Repository\\Bluwox.Repository.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-23T20:11:19.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T20:11:19.033Z"
             },
             {
               "$type": "Document",
@@ -355,8 +341,7 @@
               "RelativeToolTip": "Bluwox.Migration\\ApplicationDbContext.cs",
               "ViewState": "AgIAAA8AAAAwVVWS3H8ywA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T19:35:47.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T19:35:47.937Z"
             },
             {
               "$type": "Document",
@@ -368,8 +353,7 @@
               "RelativeToolTip": "Bluwox.Service\\Implementations\\SubCategoryLogic\\SubCategoryLogic.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T19:29:44.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T19:29:44.979Z"
             },
             {
               "$type": "Document",
@@ -381,8 +365,7 @@
               "RelativeToolTip": "Bluwox.Migration\\Migrations\\20251122230828_initialMigration.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T23:08:29.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T23:08:29.763Z"
             },
             {
               "$type": "Document",
@@ -394,8 +377,7 @@
               "RelativeToolTip": "Bluwox.Service\\Implementations\\CategoryLogic\\ICategoryLogic.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T15:31:38.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T15:31:38.585Z"
             },
             {
               "$type": "Document",
@@ -407,8 +389,7 @@
               "RelativeToolTip": "Bluwox.Repository\\SubCategoryRepo\\SubCategoryRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T19:18:23.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T19:18:23.764Z"
             },
             {
               "$type": "Document",
@@ -420,8 +401,7 @@
               "RelativeToolTip": "Bluwox.API\\Controllers\\SubCategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T12:38:26.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T12:38:26.406Z"
             },
             {
               "$type": "Document",
@@ -433,8 +413,7 @@
               "RelativeToolTip": "Bluwox.API\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T22:58:54.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T22:58:54.772Z"
             },
             {
               "$type": "Document",
@@ -446,8 +425,7 @@
               "RelativeToolTip": "Bluwox.Model\\Dtos\\CategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T14:09:11.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T14:09:11.9Z"
             },
             {
               "$type": "Document",
@@ -459,8 +437,7 @@
               "RelativeToolTip": "Bluwox.Model\\ViewModels\\BaseResponse.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAuwDEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T23:31:27.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T23:31:27.143Z"
             }
           ]
         }

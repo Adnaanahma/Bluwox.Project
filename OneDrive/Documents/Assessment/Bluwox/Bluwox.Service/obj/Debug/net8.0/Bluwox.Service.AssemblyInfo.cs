@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bluwox.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2dc5b6561435d420dfe6b97d5a153bd60d7e97c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bluwox.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bluwox.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
