@@ -45,8 +45,8 @@ The API is versioned. The base URL structure is: `/api/v{version}/[Controller]`.
 
 | Method | Endpoint | Description |
 | :--- | :--- | :--- |
-| **POST** | `/api/v1/ServiceManagement/add` | Create a new Business Service |
-| **POST** | `/api/v1/ServiceManagement/get-all` | Retrieve all services (Supports complex body parameters) |
+| **POST** | `/api/v1/ServiceManagement/add` | Create a new Service |
+| **POST** | `/api/v1/ServiceManagement/get-all` | Loads the whole page (Supports complex body parameters) |
 | **PUT** | `/api/v1/ServiceManagement/update` | Update an existing service (Name, Category, Fare) |
 | **PUT** | `/api/v1/ServiceManagement/status-update` | Toggle the Active/Inactive status of a service |
 | **DELETE**| `/api/v1/ServiceManagement/delete` | Remove a service from the system |
